@@ -15,20 +15,24 @@ Jonas Schöley
 ### Topics
 
 1. Project organization
-	1. What is a project?
-	2. Folder structure, templates, and naming conventions
-	3. Research notes
+  - What is a project?
+  - Folder structure, templates, and naming conventions
+  - Research notes
 2. Code organization
-	1. The analysis pipeline
-	2. Defining inputs and outputs
-	3. Configuration files
-	4. Comments
+  - The analysis pipeline
+  - Defining inputs and outputs
+  - Configuration files
+3. Version control
+  - The git version control system
+  - git as track changes
+  - git branches for safe experimentation
+  - keeping private things private
 
 ### Examples
 
-- [Personal project](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer1-personal/example_1-1-project)
-- [Project template](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer1-personal/example_1-3-template)
-- [Project diary](https://github.com/jschoeley/phds25-reproducible_research/blob/main/layer1-personal/example_1-2-diary/diary.md)
+- [Personal project](examples/personal_project/)
+- [Project templates](examples/personal_templates/templates.zip)
+- [Project diary](examples/project_diary/)
 - [Paper to reproduce](https://www.demographic-research.org/articles/volume/44/19)
 
 ## Layer 3: Communal reproducibility
@@ -36,38 +40,37 @@ Jonas Schöley
 ### Topics
 
 1. Code repositories
-	1. The git version control system
-	2. Github/Gitlab/Codeberg as online code repositories
-	3. Keeping private things private
-	4. Code documentation
-	5. Large file
+  - Github/Gitlab/Codeberg as online code repositories
+  - Keeping private things private
+  - Code documentation
+  - Large file
 2. Data repositories
-	1. Zenodo
-	2. Integrating Zenodo into your code
-	3. Integrating Zenodo and Github
-	4. "I can’t share my data"
-	5. Data documentation
+  - Zenodo
+  - Integrating Zenodo into your code
+  - Integrating Zenodo and Github
+  - "I can’t share my data"
+  - Data documentation
 3. Advertisement of your shared resources
 
-- [Example 2-1 Communal project](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer2-communal/example_2-1-project)
-- [Example 2-2 Git commands](https://github.com/jschoeley/phds25-reproducible_research/blob/main/layer2-communal/example_2-2-gitcommands/gitcommands.sh)
+- [Communal project](examples/communal_project/)
+- [Git commands](examples/git_commands/gitcommands.sh)
 
 ## Layer 4: Computational reproducibility
 
 ### Topics
 
 1. Workflow automation
-	1. Disadvantages of a single script. Namespace issues, package conflicts, etc.
-	2. The `targets` R package for defining an analysis pipeline
-		- Computational isolation of each target step
+  - Disadvantages of a single script. Namespace issues, package conflicts, etc.
+  - The `targets` R package for defining an analysis pipeline
+    - Computational isolation of each target step
 2. Reproducing R-language dependencies (with renv, mention rix as an option)
-	1. Listing dependencies in a project
-	2. Package version management
+  - Listing dependencies in a project
+  - Package version management
 3. Containers for near complete reproducibility
-	1. The problem of system level dependencies
-	2. The container solution
-	3. Using other peoples containers
-	4. Building your own
+  - The problem of system level dependencies
+  - The container solution
+  - Using other peoples containers
+  - Building your own
 
 ### Exercises
 
