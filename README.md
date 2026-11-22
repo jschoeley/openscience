@@ -2,11 +2,15 @@ Layers of Reproducibility
 ================
 Jonas Schöley
 
-## Layer 0: Aspirational reproducibility
+## Layer 1: Aspirational reproducibility
 
 > The setting: After 6 months of silence, you finally got the reviews for your paper. It's an R&R with many requests for additional analyses. You open your project folder and can't reproduce your old results. It's hard to remember how everything worked. You wish you had documented and organized your work better.
 
-## Layer 1: Personal reproducibility
+### Examples
+
+- [Aspirational project](examples/aspirational_project/)
+
+## Layer 2: Personal reproducibility
 
 ### Topics
 
@@ -22,12 +26,12 @@ Jonas Schöley
 
 ### Examples
 
-- [Example 1-1 Personal project](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer1-personal/example_1-1-project)
+- [Personal project](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer1-personal/example_1-1-project)
 - [Project template](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer1-personal/example_1-3-template)
 - [Project diary](https://github.com/jschoeley/phds25-reproducible_research/blob/main/layer1-personal/example_1-2-diary/diary.md)
 - [Paper to reproduce](https://www.demographic-research.org/articles/volume/44/19)
 
-## Layer 2: Communal reproducibility
+## Layer 3: Communal reproducibility
 
 ### Topics
 
@@ -48,7 +52,7 @@ Jonas Schöley
 - [Example 2-1 Communal project](https://github.com/jschoeley/phds25-reproducible_research/tree/main/layer2-communal/example_2-1-project)
 - [Example 2-2 Git commands](https://github.com/jschoeley/phds25-reproducible_research/blob/main/layer2-communal/example_2-2-gitcommands/gitcommands.sh)
 
-## Layer 3: Computational reproducibility
+## Layer 4: Computational reproducibility
 
 ### Topics
 
