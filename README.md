@@ -52,8 +52,14 @@ Jonas Schöley
   - Data documentation
 3. Advertisement of your shared resources
 
+### Examples
+
 - [Communal project](examples/communal_project/)
 - [Git commands](examples/git_commands/gitcommands.sh)
+
+### Excercises
+
+- [Self-paced course on git & github by Aliakbar Akbaritabar](https://github.com/akbaritabar/Git-GitHub-Version-Control-Interactive-Self-paced-Course)
 
 ## Layer 4: Computational reproducibility
 
@@ -75,5 +81,5 @@ Jonas Schöley
 ### Exercises
 
 - [Egors Repository](https://www.ekotov.pro/2025-mpidr-open-science-reproducible-workflows/)
-- [Excercise 1: renv](https://www.ekotov.pro/2025-mpidr-open-science-reproducible-workflows/1-r-packages.html)
-- [Excercise 2: targets](https://www.ekotov.pro/2025-mpidr-open-science-reproducible-workflows/2-analysis-pipeline.html)
+- [renv excercise by Egor Kotov](https://www.ekotov.pro/2025-mpidr-open-science-reproducible-workflows/1-r-packages.html)
+- [targets excercise by Egor Kotov](https://www.ekotov.pro/2025-mpidr-open-science-reproducible-workflows/2-analysis-pipeline.html)
