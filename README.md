@@ -34,7 +34,6 @@ Jonas Schöley
 - [Project templates](examples/personal_templates/templates.zip)
 - [Project diary](examples/project_diary/)
 - [Paper to reproduce](https://www.demographic-research.org/articles/volume/44/19)
-- [gitignore](examples/gitignore/)
 
 ## Layer 3: Communal reproducibility
 
@@ -57,6 +56,7 @@ Jonas Schöley
 
 - [Communal project](examples/communal_project/)
 - [Git commands](examples/git_commands/gitcommands.sh)
+- [gitignore](examples/gitignore/)
 
 ### Excercises
 
