@@ -34,6 +34,7 @@ Jonas Schöley
 - [Project templates](examples/personal_templates/templates.zip)
 - [Project diary](examples/project_diary/)
 - [Paper to reproduce](https://www.demographic-research.org/articles/volume/44/19)
+- [gitignore](examples/gitignore/)
 
 ## Layer 3: Communal reproducibility
 

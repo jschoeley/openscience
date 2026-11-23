@@ -1,0 +1,17 @@
+# General
+pvt/
+
+# R specific
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.Rproj
+
+# Latex
+*synctex.gz
+
+# VSCode
+.code-workspace
+
+# Misc
+.~lock*
